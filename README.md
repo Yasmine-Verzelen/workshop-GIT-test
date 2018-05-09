@@ -1,6 +1,9 @@
 # workshop-GIT-test
 My first repository test
 
+I use the following manual:
+https://inbo.github.io/git-course/course_rstudio.html 
+
 I have a :cat: called Monty.
 
 The previous sentence was just to test if I could update a README.md file.
