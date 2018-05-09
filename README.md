@@ -5,3 +5,7 @@ I have a :cat: called Monty.
 
 The previous sentence was just to test if I could update a README.md file.
 And yes I can!
+
+## How to add multiple commits from one file
+
+I will divide this README.md in two commits,
