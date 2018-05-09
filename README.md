@@ -1,4 +1,7 @@
 # workshop-GIT-test
+
+<B> Hi Yasmine </B>
+
 My first repository test
 
 I use the following manual:
