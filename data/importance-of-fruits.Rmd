@@ -1,0 +1,7 @@
+Fruit is important, there are several types of fruits:
+
+:apple:
+:banana:
+:orange:
+:pear:
+:strawberry:
