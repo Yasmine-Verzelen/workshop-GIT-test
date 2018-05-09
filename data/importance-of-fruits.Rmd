@@ -5,3 +5,5 @@ Fruit is important, there are several types of fruits:
 :orange:
 :pear:
 :strawberry:
+
+Thomas does not like fruit
